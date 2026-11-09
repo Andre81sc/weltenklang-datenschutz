@@ -4,9 +4,9 @@ Stand: November 2026
 
 ## 1. Verantwortlicher
 
-Andre Schmidt
-Potsdamer Straße 3
-59192 Bergkamen
+Andre Schmidt  
+Potsdamer Straße 3  
+59192 Bergkamen  
 E-Mail: entwickler@sternenwald.eu
 
 ## 2. Allgemeines
